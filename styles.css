@@ -53,14 +53,9 @@ nav {
     
 }
 
-.logo a img {
+.logo img {
     width: 11vw;
-}
-
-ul {
-    display: flex; /*if not, the ul will be vertical instead of horizontal*/
-    width: 100%;
-    justify-content: space-around;
+    cursor: pointer;
 }
 /***********************************************/
 /***********************************************/
