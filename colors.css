@@ -18,6 +18,8 @@
     --section4-color: rgb(225, 190, 165);
     --footer-color: rgb(45, 65, 65);
     --strange-color:linear-gradient(to top, #D8D9DB 0%, #fff 80%, #FDFDFD 100%);
+    --red-color:rgb(255, 0, 25);
+
 }
 
 
@@ -33,6 +35,8 @@
     --section4-color: rgb(225, 190, 165);
     --footer-color: rgb(45, 65, 65);
     --strange-color:linear-gradient(to top, #D8D9DB 0%, #fff 80%, #FDFDFD 100%);
+    --red-color:rgb(255, 0, 25);
+
 }
 
 .dark {
@@ -46,4 +50,6 @@
     --section3-color: rgb(135, 150, 145);
     --section4-color: rgb(225, 190, 165);
     --footer-color: rgb(45, 65, 65);
+    --red-color:rgb(255, 0, 25);
+
 }
