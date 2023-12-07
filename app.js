@@ -8,7 +8,7 @@ var btn = document.getElementById("myBtn");
 var span = document.getElementsByClassName("close")[0];
 
 // Get the hamburger element that opens the modal
-var menubar = document.getElementById("barmenu");
+var barmenu = document.getElementById("barmenu");
 
 // When the user clicks on the button, open the modal
 barmenu.onclick = function () {
